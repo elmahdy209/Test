@@ -1,0 +1,71 @@
+body {
+    color: rgb(12, 24, 51);
+    background-image: url(library.jpg);
+    font-style: normal;
+    font-size: large;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-size: cover;
+    backface-visibility: visible;
+    scroll-snap-type: mandatory;
+}
+
+header {
+    border-style: solid;
+    border-radius: 12px;
+    background-color: aliceblue;
+}
+
+div.four {
+    border: #cdd8c2c5;
+    border-radius: 12px;
+    width: fit-content;
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.561);
+    margin-left: 700px;
+}
+
+img.a {
+    border-image: round;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+img.b {
+    border-radius: 21px;
+    width: 720px;
+    height: 350px;
+}
+
+div.five {
+    width: 1700px;
+    height: 105px;
+    background-color: #16161300;
+}
+
+footer {
+    width: 330px;
+    background-color: aliceblue;
+    font: 1em sans-serif;
+    color: #121311c5;
+    margin-left: 650px;
+    margin-bottom: 100px;
+}
+
+div.six {
+    margin-left: 600px;
+}
+
+a.one {
+    margin-right: 50px;
+}
+
+a.tow {}
+
+a.three {
+    margin-left: 50px;
+}
+
+a.four {
+    margin-left: 50px;
+}
